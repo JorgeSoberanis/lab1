@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'lab1-data'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_d4f11c785295484cb52b1e4faedee667 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_5e2286bc1fcb4a70a304271e6a114305 }}
         package: .
